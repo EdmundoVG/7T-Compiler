@@ -1,3 +1,5 @@
+Note: Teresa twi manuals so you can see those for more in-depth information.
+
 A Java-based compiler implementation featuring lexical and syntactic analysis with integrated mathematical processing capabilities. This academic project demonstrates compiler construction principles while providing practical functionality for code analysis.
 Features
 
